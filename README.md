@@ -31,9 +31,10 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me :
 - 🎓 Software engineer graduate from <a href="https://www.iutoic-dhaka.edu/"> Islamic University of Technology (IUT), Dhaka, Bangladesh. </a>
 
----
+
 
 ### 📊 Profile Summary:
+--
 <div style="display: flex; flex-wrap: wrap; background-color: #5481e7c7;">
 <p align="center">
         <img align = "center" height="180em" src="https://github-readme-stats.vercel.app/api?username=farzana-snigdha&show_icons=true&locale=en&theme=radical" alt="farzana-snigdha" />
