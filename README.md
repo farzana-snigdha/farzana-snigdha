@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 ## 🔥 Streaks
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=farzana-snigdha&theme=transparent&hide_border=true)](https://git.io/streak-stats) -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farzana-snigdha&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="farzana-snigdha" /></p> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=farzana-snigdha&theme=transparent&hide_border=true" alt="farzana-snigdha" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=farzana-snigdha&theme=radical&hide_border=true" alt="farzana-snigdha" /></p>
 
