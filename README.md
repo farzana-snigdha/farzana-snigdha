@@ -39,13 +39,13 @@ Here are some ideas to get you started:
 ## 📊 Profile Summary:
 <div style="display: flex; flex-wrap: wrap; background-color: #5481e7c7;">
 <p align="center">
-        <img align = "center" height="180em" src="https://github-readme-stats.vercel.app/api?username=farzana-snigdha&show_icons=true&locale=en&theme=radical" alt="farzana-snigdha" />
-        <img align = "center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzana-snigdha&show_icons=true&locale=en&layout=compact&theme=radical" alt="farzana-snigdha" />
+        <img align = "center" height="180em" src="https://github-readme-stats.vercel.app/api?username=farzana-snigdha&show_icons=true&locale=en&theme=tokyonight" alt="farzana-snigdha" />
+        <img align = "center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzana-snigdha&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="farzana-snigdha" />
     </p>
 </div>
 
 ## 🔥 Streaks
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=farzana-snigdha&theme=transparent&hide_border=true)](https://git.io/streak-stats) -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farzana-snigdha&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="farzana-snigdha" /></p> -->
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=farzana-snigdha&theme=radical&hide_border=true" alt="farzana-snigdha" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=farzana-snigdha&theme=tokyonight-duo&hide_border=true" alt="farzana-snigdha" /></p>
 
