@@ -36,12 +36,14 @@ Here are some ideas to get you started:
 
  -->
 
-## 📊 Profile Summary:
+## 🔥 Profile Stats:
 <div style="display: flex; flex-wrap: wrap; background-color: #5481e7c7;">
 <p align="center">
         <img align = "center" height="180em" src="https://github-readme-stats.vercel.app/api?username=farzana-snigdha&hide_border=true&show_icons=true&locale=en&theme=tokyonight" alt="farzana-snigdha" />
         <img align = "center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzana-snigdha&hide_border=true&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="farzana-snigdha" />
     </p>
+    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=farzana-snigdha&theme=tokyonight-duo&hide_border=true" alt="farzana-snigdha" /></p>
+
 </div>
 
 ## 🔥 Streaks
@@ -50,4 +52,4 @@ Here are some ideas to get you started:
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=farzana-snigdha&theme=tokyonight-duo&hide_border=true" alt="farzana-snigdha" /></p>
 
 ## 🏆 Achievemnets
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farzana-snigdha" alt="farzana-snigdha" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farzana-snigdha&theme=tokyonight-duo&hide_border=true" alt="farzana-snigdha" /></a> </p>
