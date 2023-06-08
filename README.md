@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=5688F7&width=435&lines=I+am+Farzana+Tabassum.;I+am+a+Software+Engineer!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=5688F7&width=435&lines=I+am+Farzana+Tabassum)](https://git.io/typing-svg)
 <p>
 🎓 Software engineer graduate from <a href="https://www.iutoic-dhaka.edu/"> Islamic University of Technology (IUT), Dhaka, Bangladesh. </a>
 </p>
 
-## 📫 Connect with me-
+📫 Connect with me-
 <div id="badges">
 <a href="https://www.linkedin.com/in/farzana-tabassum-334571183/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 ## 📊 Profile Summary:
 <div style="display: flex; flex-wrap: wrap; background-color: #5481e7c7;">
 <p align="center">
-        <img align = "center" height="180em" src="https://github-readme-stats.vercel.app/api?username=farzana-snigdha&show_icons=true&locale=en&theme=tokyonight" alt="farzana-snigdha" />
-        <img align = "center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzana-snigdha&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="farzana-snigdha" />
+        <img align = "center" height="180em" src="https://github-readme-stats.vercel.app/api?username=farzana-snigdha&hide_border=true&show_icons=true&locale=en&theme=tokyonight" alt="farzana-snigdha" />
+        <img align = "center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzana-snigdha&hide_border=true&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="farzana-snigdha" />
     </p>
 </div>
 
@@ -49,3 +49,5 @@ Here are some ideas to get you started:
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farzana-snigdha&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="farzana-snigdha" /></p> -->
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=farzana-snigdha&theme=tokyonight-duo&hide_border=true" alt="farzana-snigdha" /></p>
 
+## 🏆 Achievemnets
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farzana-snigdha" alt="farzana-snigdha" /></a> </p>
