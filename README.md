@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=5688F7&width=435&lines=I+am+Farzana+Tabassum;I+am+a+Software+Engineer!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=5688F7&width=435&lines=I+am+Farzana+Tabassum.;I+am+a+Software+Engineer!!)](https://git.io/typing-svg)
 
 <div id="badges">
 <a href="https://www.linkedin.com/in/farzana-tabassum-334571183/">
@@ -30,3 +30,8 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 - 🎓 Software engineer graduate from <a href="https://www.iutoic-dhaka.edu/"> Islamic University of Technology (IUT), Dhaka, Bangladesh. </a>
+
+---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzana-snigdha&show_icons=true&locale=en&layout=compact" alt="farzana-snigdha" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farzana-snigdha&show_icons=true&locale=en" alt="farzana-snigdha" /></p>
