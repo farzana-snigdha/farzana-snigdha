@@ -30,19 +30,21 @@ Here are some ideas to get you started:
   </a>
 </div>
 
----
 
 <!-- ### :woman_technologist: About Me :
 - 🎓 Software engineer graduate from <a href="https://www.iutoic-dhaka.edu/"> Islamic University of Technology (IUT), Dhaka, Bangladesh. </a>
 
  -->
 
-### 📊 Profile Summary:
-<hr style="height: 0.4px; background-color: gray; border: none;">
+## 📊 Profile Summary:
 <div style="display: flex; flex-wrap: wrap; background-color: #5481e7c7;">
 <p align="center">
         <img align = "center" height="180em" src="https://github-readme-stats.vercel.app/api?username=farzana-snigdha&show_icons=true&locale=en&theme=radical" alt="farzana-snigdha" />
-        <img align = "center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzana-snigdha&show_icons=true&locale=en&layout=compact&theme=radical" alt="farzana-snigdha" />
+        <img align = "center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzana-snigdha&show_icons=true&locale=en&layout=compact&theme=black-ice" alt="farzana-snigdha" />
     </p>
 </div>
+
+## 🔥 Streaks
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farzana-snigdha&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="farzana-snigdha" /></p>
+
 
