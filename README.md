@@ -21,7 +21,12 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/farzana-tabassum-334571183/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="farzana@iut-dhaka.edu">
+  <a href="mailto:farzana@iut-dhaka.edu">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
+
+---
+
+### :woman_technologist: About Me :
+- 🎓 Software engineer graduate from <a href="https://www.iutoic-dhaka.edu/"> Islamic University of Technology (IUT), Dhaka, Bangladesh. </a>
