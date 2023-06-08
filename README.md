@@ -32,6 +32,14 @@ Here are some ideas to get you started:
 - 🎓 Software engineer graduate from <a href="https://www.iutoic-dhaka.edu/"> Islamic University of Technology (IUT), Dhaka, Bangladesh. </a>
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzana-snigdha&show_icons=true&locale=en&layout=compact" alt="farzana-snigdha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farzana-snigdha&show_icons=true&locale=en" alt="farzana-snigdha" /></p>
+### 📊 Profile Summary:
+<div style="display: flex; flex-wrap: wrap; background-color: #5481e7c7;">
+     <div style="flex: 1;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=farzana-snigdha&show_icons=true&locale=en" alt="farzana-snigdha" />
+    </div>
+    <div style="flex: 1;">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzana-snigdha&show_icons=true&locale=en&layout=compact" alt="farzana-snigdha" />
+    </div>
+</div>
+
