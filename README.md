@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 ### 📊 Profile Summary:
-<hr style="height: 1px; background-color: gray; border: none;">
+<hr style="height: 0.4px; background-color: gray; border: none;">
 <div style="display: flex; flex-wrap: wrap; background-color: #5481e7c7;">
 <p align="center">
         <img align = "center" height="180em" src="https://github-readme-stats.vercel.app/api?username=farzana-snigdha&show_icons=true&locale=en&theme=radical" alt="farzana-snigdha" />
