@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=5688F7&width=435&lines=I+am+Farzana+Tabassum;I+am+a+Software+Engineer!!)](https://git.io/typing-svg)
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Gmail-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</div>
