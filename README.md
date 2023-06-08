@@ -107,7 +107,7 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
     </a>
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
@@ -139,3 +139,10 @@ Here are some ideas to get you started:
 
 ## 🏆 Achievemnets
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farzana-snigdha&theme=tokyonight&hide_border=true" alt="farzana-snigdha" /></a> </p>
+
+## 🏢 Institution(s) I've worked for
+<p left="center">
+ <a href="https://research.samsung.com/srbd">
+    <img src="https://cdn.codeground.org/nsr/images/layout/logo-sr.png" weight=50 height=30> 
+  </a>
+</p>
