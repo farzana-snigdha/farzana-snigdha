@@ -35,11 +35,9 @@ Here are some ideas to get you started:
 
 ### 📊 Profile Summary:
 <div style="display: flex; flex-wrap: wrap; background-color: #5481e7c7;">
-     <div style="flex: 1;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=farzana-snigdha&show_icons=true&locale=en" alt="farzana-snigdha" />
-    </div>
-    <div style="flex: 1;">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzana-snigdha&show_icons=true&locale=en&layout=compact" alt="farzana-snigdha" />
-    </div>
+<p align="center">
+        <img align = "center" height="180em" src="https://github-readme-stats.vercel.app/api?username=farzana-snigdha&show_icons=true&locale=en&theme=radical" alt="farzana-snigdha" />
+        <img align = "center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzana-snigdha&show_icons=true&locale=en&layout=compact&theme=radical" alt="farzana-snigdha" />
+    </p>
 </div>
 
