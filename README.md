@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </div>
 
 ## 🌱 Contributions
-<p align="center"<a href="#"><img alt="farzana-snigdha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=farzana-snigdha&theme=tokyonight&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="farzana-snigdha's Activity Graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farzana-snigdha&theme=tokyonight&hide_border=true&" /></a></p>
 
 <!-- ## 🔥 Streaks
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=farzana-snigdha&theme=tokyonight-duo&hide_border=true" alt="farzana-snigdha" /></p>
