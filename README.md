@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=5688F7&width=435&lines=I+am+Farzana+Tabassum)](https://git.io/typing-svg)
 <p>
-🎓 Software engineer graduate from <a href="https://www.iutoic-dhaka.edu/"> Islamic University of Technology (IUT), Dhaka, Bangladesh. </a>
+🎓 Software engineering graduate from <a href="https://www.iutoic-dhaka.edu/"> Islamic University of Technology (IUT), Dhaka, Bangladesh. </a>
 </p>
 
 📫 Connect with me-
